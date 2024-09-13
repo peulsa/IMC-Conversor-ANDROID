@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EvaErika</string>
+
+    <string-array name="monedas_array">
+        <item>BTC</item> <!-- Bitcoin -->
+        <item>CNY</item> <!-- Yuan Chino -->
+        <item>INR</item> <!-- Rupia India -->
+        <item>HKD</item> <!-- Dólar de Hong Kong -->
+        <item>AED</item> <!-- Dirham de los Emiratos Árabes Unidos -->
+        <item>SAR</item> <!-- Rial Saudí -->
+    </string-array>
+</resources>
